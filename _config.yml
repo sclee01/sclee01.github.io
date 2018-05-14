@@ -37,8 +37,8 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Jo hyun chul
-  avatar: cchcc.jpg
+  name: Seungchul Lee
+  avatar: sclee.png
   email: jo.cchcc@gmail.com
   disqus-shortname: cchcc
   twitter: #username
