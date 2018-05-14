@@ -38,7 +38,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Seungchul Lee
-  avatar: sclee.png
+  avatar: sclee.jpg
   email: mangfu100@gmail.com
   disqus-shortname: sclee
   twitter: #username
