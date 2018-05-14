@@ -39,11 +39,11 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Seungchul Lee
   avatar: sclee.png
-  email: jo.cchcc@gmail.com
-  disqus-shortname: cchcc
+  email: mangfu100@gmail.com
+  disqus-shortname: sclee
   twitter: #username
   facebook: thatisthelife
-  github: cchcc
+  github: sclee
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
