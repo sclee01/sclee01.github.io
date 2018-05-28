@@ -5,7 +5,6 @@ locale: en
 description: 이승철의 기술블로그
 logo: sclee.png
 search: true
-url: http://localhost:4000
 url: https://sclee01.github.io
 
 # Jekyll configuration
