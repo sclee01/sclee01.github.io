@@ -6,7 +6,7 @@ date: 2018-06-29
 modified: 2018-06-29
 author: sclee
 categories: blog
-tags: [R]
+tags: [Spark,BigData,Hadoop]
 image:
   url: http://i.imgur.com/p0TzIOM.gif
 comments: true
