@@ -1,3 +1,19 @@
+---
+layout: post
+title: Comparison between Spark and MapReduce
+excerpt: "스파크와 맵리듀스 성능비교"
+date: 2018-06-29
+modified: 2018-06-29
+author: sclee
+categories: blog
+tags: [R]
+image:
+  url: http://i.imgur.com/p0TzIOM.gif
+comments: true
+share: true
+---
+
+
 <h2 id="mapreduce-vs.-spark">MapReduce vs. Spark</h2>
 <p>논문 리뷰.<br>
 스파크와 맵리듀스의 성능에 대해 비교하는 논문입니다.</p>
