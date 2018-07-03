@@ -1,3 +1,19 @@
+---
+layout: post
+title: LabelEncoder across multiple columns in python3
+excerpt: "여러개의 컬럼을 레이블링 인코더 하는 방법"
+date: 2018-07-03
+modified: 2018-07-3
+author: sclee
+categories: blog
+tags: [python]
+image:
+  url: http://i.imgur.com/p0TzIOM.gif
+comments: true
+share: true
+---
+
+
 ##   LabelEoncoder in Python3
 
 여러개의 columns이 있는 data frame에서 label이 있는 상태로 Encoding 하는 방법.
