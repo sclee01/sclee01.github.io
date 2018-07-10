@@ -6,7 +6,7 @@ date: 2018-07-10
 modified: 2018-07-10
 author: sclee
 categories: blog
-tags: [R]
+tags: [Algorithm,Sort]
 image:
   url: http://i.imgur.com/p0TzIOM.gif
 comments: true
