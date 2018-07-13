@@ -8,11 +8,10 @@ image:
 ---
 
 
-알고리즘, 데이터마이닝,빅데이터 그리고 분산처리에 관심이 많습니다.  
-목표를 달성하는 것을 좋아합니다.실패를 두려워 하지 않습니다.  
-관심있고 좋아하는 것들을 포스팅 하는 블로그입니다.
+알고리즘, 데이터마이닝,빅데이터 그리고 분산처리에 관심이 많습니다.
+기록하고 정리한 것을 남기는 블로그입니다.
 
-> Think it,  feel it,  believe it !
+> Manifesting your deisre!
 
 <img src="https://wakatime.com/favicon.ico" width="16">&nbsp;&nbsp;[WakaTime](https://wakatime.com/@cchcc)  
 <img src="https://ssl.gstatic.com/ui/v1/icons/mail/favicon.ico">&nbsp;&nbsp;[mangfu100@gmail.com](mailto:mangfu100@gmail.com)
