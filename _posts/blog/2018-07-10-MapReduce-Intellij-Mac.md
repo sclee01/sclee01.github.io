@@ -131,7 +131,4 @@ public class WordCount {
 
 ---
 참고 문서
-1. [http://msoliman.me/2017/04/24/first-map-reduce-inside-intellij-with-docker-container/] (http://msoliman.me/2017/04/24/first-map-reduce-inside-intellij-with-docker-container/) 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzA4NTYxNzFdfQ==
--->
+1. [http://msoliman.me/2017/04/24/first-map-reduce-inside-intellij-with-docker-container/](http://msoliman.me/2017/04/24/first-map-reduce-inside-intellij-with-docker-container/)
