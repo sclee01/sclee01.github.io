@@ -41,6 +41,7 @@ Task initialization, input read, map operation 과정이 Spark가 MapReduce보�
 </ul>
 <h4 id="what-is-the-bottleneck-for-k-means">What is the bottleneck for k-means?</h4>
 <ul>
-<li>RDD caching으로 DISK_ONLY를 사용했을 경우, 첫 번째 iteration 이후에 OS buffer cache를 drop시킬때, 그 다음부터는 disk I/O가 많이 발생합니다. 즉, DISK_ONLY를 사용했을 경우, OS buffer cache를 활용한다는 것을 알 수 있습니다. 여기서 disk의 개수가 충분하여 disk-bound가 고려대상이 아닐 경우에는 성능 차이가 발생하지 않습니다.<code>enter code here</code></li>
+<li>RDD caching으로 DISK_ONLY를 사용했을 경우, 첫 번째 iteration 이후에 OS buffer cache를 drop시킬때, 그 다음부터는 disk I/O가 많이 발생합니다. 즉, DISK_ONLY를 사용했을 경우, OS buffer cache를 활용한다는 것을 알 수 있습니다. 여기서 disk의 개수가 충분하여 disk-bound가 고려대상이 아닐 경우에는 성능 차이가 발생하지 않습니다.
+</li>
 </ul>
 
